@@ -1,0 +1,66 @@
+body {
+    background-color: lightgoldenrodyellow;
+    padding-bottom: 20px;
+  }
+ 
+  /*Navbar customization*/
+    .navbar {
+      margin-bottom: 20px;
+  }
+    .navbar-custom {
+      background-color: olivedrab
+  }
+  /* index.html css */
+  .img {
+      width: 500px; height: auto;
+  }
+  .intro {
+      width: 200px; height: 200px;
+  }
+   /* about-me.html css */
+  .activision {
+      height: 200px; width: auto;
+  }
+  .ust {
+      height: 200px; width: auto;
+  }
+  .arcc {
+      height: 200px; width: auto;
+  }
+  .dnd {
+      height: 200px; width: auto;
+  }
+  .textboxthing {
+      width: 500px; height: auto;
+  }
+   /* contact.html css */
+
+   /* pets.html css */
+  .Rascal {
+      width: auto; height: 400px;
+  }
+  .Muffin {
+      width: auto; height: 300px;
+  }
+  .Duchess {
+      width: auto; height: 300px;
+  }
+   /* portfolio.html css */
+   .mini {
+       height: 300px; width: auto;
+   }
+   .traditional {
+       height: 300px; width: auto;
+   }
+   .digital {
+       height: 300px; width: auto;
+   }
+   .instagram {
+       height: 100px; width: auto;
+   }
+   .litterboxblog {
+       height: 380px; width: auto;
+   }
+   .hmwrk1 {
+       height: 400px; width: auto;
+   }

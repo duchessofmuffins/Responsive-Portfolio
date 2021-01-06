@@ -1,5 +1,5 @@
 # Responsive-Portfolio
-The Homework for Bootcamp
+The Homework for Bootcamp!
 In this Portfolio you will find the following:
 
 A welcoming home page that has a friendly face on it.
